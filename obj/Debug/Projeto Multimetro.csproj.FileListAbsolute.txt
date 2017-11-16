@@ -1,0 +1,10 @@
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Multimetro.resources
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Projeto Multimetro.csproj.GenerateResource.Cache
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Projeto Multimetro.csproj.CoreCompileInputs.cache
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Documentos\Projeto Multimetro\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Projeto Multimetro.csprojResolveAssemblyReference.cache
